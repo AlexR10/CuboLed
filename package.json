@@ -1,0 +1,20 @@
+{
+  "name": "cuboled",
+  "version": "1.0.0",
+  "description": "Cubo led con raspberry pi 3 model b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "NodeJs",
+    "Johnny-Five",
+    "Raspberry"
+  ],
+  "repository": {
+    "url": "https://github.com/AlexR10/CuboLed.git"
+  },
+  "author": "Alexis Puc",
+  "license": "ISC"
+}
