@@ -16,5 +16,8 @@
     "url": "https://github.com/AlexR10/CuboLed.git"
   },
   "author": "Alexis Puc",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^1.0.0"
+  }
 }
